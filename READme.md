@@ -1,6 +1,5 @@
 # EduSpark - AI Education Assistant
 
-![EduSpark Preview](https://i.imgur.com/JXQZf9j.png)
 
 A premium coming soon page for EduSpark, an AI-powered education assistant designed to empower teachers in multi-grade classrooms. This interactive single-page website features a sleek black and silver aesthetic with advanced 3D visual effects.
 
